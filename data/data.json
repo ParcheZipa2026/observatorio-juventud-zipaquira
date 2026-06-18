@@ -3,24 +3,33 @@
   "fuente": "Excel institucional · Programa de Juventudes Zipaquirá",
   "vigencia": 2026,
   "actualizado": "2026-06-17T15:16:00.855705+00:00",
-  "totalRegistros": 264,
-  "totalIndicadores": 66,
+  "totalRegistros": 374,
+  "totalIndicadores": 111,
   "periodos": [
+   "ABR - JUN 2025",
+   "ENE - JUNIO 2026",
+   "ENE - MAR 2025",
    "ENE - MAR 2026",
-   "ABR - JUN 2026",
-   "JUL - SEP 2026",
-   "OCT - DIC 2026"
+   "JUL - SEP 2025",
+   "OCT - DIC 2025"
   ],
   "secretarias": [
+   "Consejo Municipal de Juventud",
    "IMCRDZ",
+   "Instituto Colombiano de Bienestar Familiar (ICBF)",
+   "Plataforma de Juventudes",
    "SISBÉN",
+   "Secretaria de Famiia",
+   "Secretaria de familia",
    "Secretaría Rural",
    "Secretaría de Desarrollo Económico",
    "Secretaría de Educación",
    "Secretaría de Familia",
    "Secretaría de Gobierno",
+   "Secretaría de Planeación",
    "Secretaría de Salud",
-   "Secretaría de Seguridad"
+   "Secretaría de Seguridad",
+   "Universidades con sede en Zipaquirá"
   ],
   "datosCargados": true
  },
